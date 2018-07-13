@@ -23,7 +23,7 @@ function switchOnCharmTip(tip){
     console.log('Thank you.')
     break;
   default:
-    console.log('Sorry, we are out of ' + expr + '.');
+    console.log('Bye.');
 }
 
 }
