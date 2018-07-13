@@ -17,9 +17,10 @@ function ternaryCheckCity(city){
 function switchOnCharmTip(tip){
   switch (tip) {
   case 'generous':
-    console.log('Oranges are $0.59 a pound.');
+    console.log('Thank you so much.');
     break;
-  case 'Mangoes':
+  case 'not so generous':
+    console.log('Thank you.')
   case 'Papayas':
     console.log('Mangoes and papayas are $2.79 a pound.');
     // expected output: "Mangoes and papayas are $2.79 a pound."
