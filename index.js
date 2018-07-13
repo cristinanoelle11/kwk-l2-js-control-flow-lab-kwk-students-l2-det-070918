@@ -27,3 +27,4 @@ function switchOnCharmTip(tip){
 }
 
 }
+return
