@@ -21,9 +21,6 @@ function switchOnCharmTip(tip){
     break;
   case 'not so generous':
     console.log('Thank you.')
-  case 'Papayas':
-    console.log('Mangoes and papayas are $2.79 a pound.');
-    // expected output: "Mangoes and papayas are $2.79 a pound."
     break;
   default:
     console.log('Sorry, we are out of ' + expr + '.');
