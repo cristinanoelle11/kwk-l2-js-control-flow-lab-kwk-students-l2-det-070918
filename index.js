@@ -25,6 +25,5 @@ function switchOnCharmTip(tip){
   default:
     console.log('Bye.');
 }
-
-}
 return
+}
